@@ -37,7 +37,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 8,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "hojoki-0000",
